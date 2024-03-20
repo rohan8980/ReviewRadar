@@ -1,0 +1,6 @@
+Notebooks/.ipynb_checkpoints/
+Data/*.csv
+Data/*.gz
+Data/*.json
+Model/
+
